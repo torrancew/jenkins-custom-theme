@@ -1,3 +1,5 @@
+/* This is a custom CSS file for Jenkins CI instances */
+
 #main-panel pre {
   font:             Ubuntu;
   color:            gray;
